@@ -1,0 +1,16 @@
+:root {
+	--theme-color: cornflowerblue;
+}
+
+.sidebar {
+	padding-left: 25px;
+}
+
+.sidebar-nav > p > a {
+	text-decoration: none;
+	color: cornflowerblue;
+}
+
+.content {
+	overflow: scroll;
+}
